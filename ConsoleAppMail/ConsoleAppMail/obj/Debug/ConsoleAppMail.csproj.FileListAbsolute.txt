@@ -1,0 +1,8 @@
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\bin\Debug\ConsoleAppMail.exe.config
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\bin\Debug\ConsoleAppMail.exe
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\bin\Debug\ConsoleAppMail.pdb
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\obj\Debug\ConsoleAppMail.csproj.AssemblyReference.cache
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\obj\Debug\ConsoleAppMail.csproj.SuggestedBindingRedirects.cache
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\obj\Debug\ConsoleAppMail.csproj.CoreCompileInputs.cache
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\obj\Debug\ConsoleAppMail.exe
+D:\ПМ 2023\ConsoleAppMail\ConsoleAppMail\obj\Debug\ConsoleAppMail.pdb
